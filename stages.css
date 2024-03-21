@@ -1,0 +1,35 @@
+head{
+    background-image:url(img/logo.png)
+}
+
+html{
+    background-color: #77B5FE ;
+}
+
+a{
+    color: black;
+    size: 500px;
+}
+img{
+    size: 100px;
+    top: 0;
+    right: 0;
+    position: absolute;
+    text-align: right;
+    height: 100px;
+    width: 700px;
+}
+a{
+    background-image: url(img/fondtxt.png)
+}
+ul{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+h1{
+    text-align: right;
+    height: 100px;
+    width: 700px;
+}
